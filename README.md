@@ -2,15 +2,16 @@
 This code sample for Fetch by Casey West consists of a dessert list/detail view consuming TheMealDB public API. 
 
 ## Highlights
+- MVVM architecture w/ protocols for services and view models.
 - Main dessert list is alphebatized and has a bonus in-memory search.
 - Sample unit tests on main service and view models with project coverage around 50%. 
-- ViewModel has sample documentation more along the lines of how I like to do it, some other classes are lighter on comments to save time.
 - DocC style documentation sample.
 
 ## Some Key Tools Used
 - SwiftUI
 - MVVM
 - Async/Await
+- Protocols
 - XCUnitTest for ViewModel/Servies
 
 ## Screenshots
